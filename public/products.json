@@ -1,0 +1,62 @@
+[
+  {
+    "image": "https://cdn.pixabay.com/photo/2022/07/16/00/25/greeting-card-7324275_1280.jpg",
+    "category": {
+      "title": "paint",
+      "subCategory": "flower"
+    },
+    "price": "20",
+    "discountPrice": "15",
+    "id": "09jfei53ee"
+  },
+  {
+    "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg",
+    "category": {
+      "title": "mobile",
+      "subCategory": "OPPO"
+    },
+    "price": "90",
+    "discountPrice": "59",
+    "id": "09jw2i54fe"
+  },
+  {
+    "image": "https://cdn.pixabay.com/photo/2022/07/16/00/25/greeting-card-7324275_1280.jpg",
+    "category": {
+      "title": "paint",
+      "subCategory": "flower"
+    },
+    "price": "20",
+    "discountPrice": "15",
+    "id": "09gtei53ee"
+  },
+  {
+    "image": "https://d38b044pevnwc9.cloudfront.net/cutout-nuxt/enhancer/2.jpg",
+    "category": {
+      "title": "showpiece",
+      "subCategory": "tower"
+    },
+    "price": "203",
+    "discountPrice": "159",
+    "id": "09jfyujhfe"
+  },
+  {
+    "image": "https://cdn.pixabay.com/photo/2022/07/16/00/25/greeting-card-7324275_1280.jpg",
+    "category": {
+      "title": "paint",
+      "subCategory": "flower"
+    },
+    "price": "20",
+    "discountPrice": "15",
+    "id": "09jfet03ee"
+  },
+  {
+    "image": "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg",
+    "category": {
+      "title": "mobile",
+      "subCategory": "OPPO"
+    },
+    "price": "90",
+    "discountPrice": "59",
+    "id": "09je3i54fe"
+  }
+]

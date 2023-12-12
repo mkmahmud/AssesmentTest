@@ -2,6 +2,7 @@ import { createBrowserRouter } from "react-router-dom";
 import Main from "../layout/Main";
 import Auth from "../pages/Auth/Auth";
 import NotFound from "../pages/NotFound/NotFound";
+import Product from "../components/Pages/Product";
 
 const router = createBrowserRouter([
   {
@@ -23,6 +24,10 @@ const router = createBrowserRouter([
   {
     path: "/auth",
     element: <Auth />,
+  },
+  {
+    path: "/product",
+    element: <Product />,
   },
   // Not found route
   {
